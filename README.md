@@ -19,5 +19,5 @@ Atualmente moro no Brasil 🇧🇷, quitando dívidas e estudando muito para me 
 ---
 
  📫 Como me encontrar:
-- LinkedIn: [link-do-seu-perfil]
+- LinkedIn: https://www.linkedin.com/in/matheus-da-silva-teixeira-113658380/
 - Foco atual: Criar projetos reais para o mercado chileno
